@@ -13,10 +13,10 @@ As a QA engineer on an OTT/media platform, I test whether the platform behaves c
 
 ## How to run locally
 ```bash
-git clone https://github.com/<your-username>/ott-content-analytics.git
-cd ott-content-analytics
-pip install -r requirements.txt
-jupyter notebook OTT_Content_Analytics.ipynb
+   git clone https://github.com/Vellingta/OTTDataScienceProject.git
+   cd OTTDataScienceProject
+   pip install -r requirements.txt
+   jupyter notebook OTT_Content_Analytics.ipynb
 ```
 Run the cells top to bottom (Shift+Enter). Outputs, charts and SQL tables are regenerated into `charts/` and `exports/`.
 
